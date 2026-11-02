@@ -11,7 +11,7 @@ Welcome to my little corner of the internet, where code meets the cosmos.
 A cinematic pixel-art space scene featuring a peaceful lunar landscape and a rotating celestial starfield.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/specter2028/specter2028/main/stary-night.gif" width="100%" alt="Stary Night — rotating pixel-art galaxy">
+  <img src="https://raw.githubusercontent.com/specter2028/specter2028/main/stary-night.gf" width="100%" alt="Stary Night — rotating pixel-art galaxy">
 </p>
 
 ### 🌠 Features
