@@ -3,7 +3,7 @@
 A cinematic pixel-art scene featuring a rotating celestial starfield.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/specter2028/specter2028/main/pixel-space.gif" width="100%" alt="Pixel Space animated starfield">
+  <img src="https://raw.githubusercontent.com/specter2028/specter2028/stary-night.gif" width="100%" alt="Pixel Space animated starfield">
 </p>
 
 ### ✨ Features
